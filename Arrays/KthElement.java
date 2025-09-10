@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-public class kthElement {
+public class KthElement {
 
     public static void main(String[] args){
         int[] arr = {3,4,5,2,1,6};
